@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'rm /tmp/my_first_directory/betty' >> 8-firstdelete
+rm -r /tmp/my_first_directory/
